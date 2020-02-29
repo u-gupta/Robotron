@@ -3,9 +3,9 @@ A Java based clone of a classic game Robotron with a procedurally generated worl
 
 Compile Instructions:
 
-    Put the file in a folder called "Robotron"
-    Open the "Robotron.pde" file using processing
-    Execute the program to start the game.
+- Put the file in a folder called "Robotron"
+- Open the "Robotron.pde" file using processing
+- Execute the program to start the game.
 
 Controls:
 Arrow keys or wasd(with caps lock OFF) can be used to move around horizontally or vertically.
